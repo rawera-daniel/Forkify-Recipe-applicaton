@@ -1,3 +1,4 @@
+import { async } from 'regenerator-runtime';
 import { API_URL } from './config.js';
 import { getJSON } from './helpers.js';
 
@@ -11,9 +12,7 @@ export const state = {
 
 export const loadRecipe = async function (id) {
   try {
-    const data = await getJSON(`${API_URL}/${id}`);
-
-    console.log(data);
+    const data = await getJSON(`${API_URL}${id}`);
 
     const { recipe } = data.data;
 
@@ -27,7 +26,6 @@ export const loadRecipe = async function (id) {
       cookingTime: recipe.cooking_time,
       ingredients: recipe.ingredients,
     };
-    console.log(state.recipe);
   } catch (err) {
     console.error(`${err} 🎆🎆🎆`);
     throw err;
