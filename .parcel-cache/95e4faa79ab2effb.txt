@@ -1,4 +1,4 @@
-9400
+9401
 102C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\.prettierrc133162561087612029 0
 156C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\css-select\node_modules\domutils\lib\esm\querying.js133287231578356661 0
 144C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\core-js\features\typed-array\subarray.js133287911776768087 0
@@ -21,7 +21,7 @@
 132C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\svgo\plugins\cleanupAttrs.js133287231577944090 0
 118C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\csso\lib\clean133287775376009855 1
 134C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\core-js\features\array\virtual133287911781678045 1
-95C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\dist133293052756831020 1
+95C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\dist133293940127357868 1
 98C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\.vscode133288915725461779 1
 148C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\dom-serializer\node_modules\entities\LICENSE133287231569948715 0
 145C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\core-js\internals\set-is-disjoint-from.js133287911774037291 0
@@ -221,13 +221,27 @@
 155C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\caniuse-lite\data\features\font-family-system-ui.js133287231592815270 0
 107C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\src\js\config.js133293052241334204 0
 137C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\css-tree\lib\syntax\node\Value.js133287231591693564 0
-111C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\src\js\controller.js133293052623488176 0
+111C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\src\js\controller.js133293940126770481 0
 182C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\pseudo-selectors\filters.js133287231575734406 0
 133C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\svgo\plugins\removeViewBox.js133287231585665699 0
 128C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\node-gyp-build\README.md133287231576286205 0
-103C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\src\js\views133292984474012947 1
+103C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\src\js\views133293824924842528 1
 154C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\@parcel\runtime-js\src\helpers\node\wasm-loader.js133287231583597081 0
 138C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\core-js\actual\instance\entries.js133287911749744843 0
+136C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\svgo\plugins\sortDefsChildren.js133287231586071759 0
+162C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\@babel\highlight\node_modules\color-convert\conversions.js133287231571491016 0
+138C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\sass\types\legacy\plugin_this.d.ts133287233039439309 0
+130C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\htmlnano\docs\netlify.toml133287231586777825 0
+121C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\src\js\views\paginationView.js133293831541462307 0
+150C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\core-js\internals\array-iteration-from-last.js133287911743921287 0
+125C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\posthtml\node_modules133287775401068386 1
+127C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\lmdb\dist\index.cjs.map133287231589987385 0
+122C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\timsort\.npmignore133287231570541600 0
+136C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\core-js\full\typed-array\from.js133287911762249075 0
+160C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\core-js\proposals\function-is-callable-is-constructor.js133287911762542858 0
+143C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\css-tree\lib\syntax\node\index-parse.js133287231590745089 0
+136C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\@parcel\events\src\Disposable.js133287231571800850 0
+135C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\immutable\dist\immutable.min.js133287233038899120 0
 126C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\nth-check\lib\index.js133287231574285377 0
 138C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\core-js\features\string\pad-end.js133287911771321442 0
 109C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\clone133287775361928006 1
@@ -540,7 +554,7 @@
 128C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\sass\types\importer.d.ts133287233039190186 0
 175C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\index.js133287231572328983 0
 149C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\caniuse-lite\data\features\css-unset-value.js133287231591628397 0
-113C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\dist\logo.726d37a8.png133292994500599136 0
+113C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\dist\logo.726d37a8.png133293923202125457 0
 123C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\type-fest\readme.md133287231571604083 0
 129C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\import-fresh\package.json133287231571220643 0
 157C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\types.ts133287231587725103 0
@@ -1412,17 +1426,6 @@
 142C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\core-js\full\instance\last-index-of.js133287911769042601 0
 142C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\sass\types\logger\source_location.d.ts133287233039499153 0
 137C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\core-js\full\iterator\to-async.js133287911777303629 0
-136C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\svgo\plugins\sortDefsChildren.js133287231586071759 0
-162C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\@babel\highlight\node_modules\color-convert\conversions.js133287231571491016 0
-138C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\sass\types\legacy\plugin_this.d.ts133287233039439309 0
-125C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\posthtml\node_modules133287775401068386 1
-127C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\lmdb\dist\index.cjs.map133287231589987385 0
-122C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\timsort\.npmignore133287231570541600 0
-136C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\core-js\full\typed-array\from.js133287911762249075 0
-160C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\core-js\proposals\function-is-callable-is-constructor.js133287911762542858 0
-143C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\css-tree\lib\syntax\node\index-parse.js133287231590745089 0
-136C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\@parcel\events\src\Disposable.js133287231571800850 0
-135C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\immutable\dist\immutable.min.js133287233038899120 0
 132C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\core-js\full\regexp\index.js133287911766109343 0
 136C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\core-js\full\set\is-subset-of.js133287911767525303 0
 122C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\timsort\LICENSE.md133287231573106209 0
@@ -2631,11 +2634,11 @@
 130C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\lmdb\util\RangeIterable.js133287231589346755 0
 149C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\csso\node_modules\css-tree\lib\lexer\trace.js133287231591888613 0
 157C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\csso\node_modules\mdn-data\css\properties.schema.json133287231580603222 0
-118C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\@parcel\fs\lib133287775252141611 1
-130C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\css-tree\lib\syntax\atrule133287775372510083 1
-182C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\pseudo-selectors\index.d.ts133287231582603225 0
 148C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\core-js\internals\typed-array-constructor.js133287911780188950 0
 137C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\core-js\features\iterator\some.js133287911774980824 0
+118C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\@parcel\fs\lib133287775252141611 1
+182C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\pseudo-selectors\index.d.ts133287231582603225 0
+130C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\css-tree\lib\syntax\atrule133287775372510083 1
 135C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\lmdb\dependencies\lz4\lib\lz4.h133287231588545000 0
 143C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\core-js\es\array\virtual\copy-within.js133287911747372254 0
 150C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\css-select\node_modules\dom-serializer\lib\esm133287775365403414 1
@@ -2832,7 +2835,7 @@
 122C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\css-tree\cjs\utils133287775371178654 1
 164C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\lightningcss-win32-x64-msvc\lightningcss.win32-x64-msvc.node133287231588661464 0
 145C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\entities\lib\generated\decode-data-xml.js133287231574999392 0
-106C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\dist\index.html133292994500399758 0
+106C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\dist\index.html133293923201367503 0
 131C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\lightningcss\node\index.mjs133287231578403112 0
 143C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\core-js\internals\number-parse-float.js133287911770734471 0
 124C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\lightningcss\LICENSE133287231569849955 0
@@ -2924,7 +2927,7 @@
 138C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\core-js\stable\typed-array\with.js133287911781779637 0
 143C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\json-parse-even-better-errors\README.md133287231574051149 0
 115C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\js-yaml\bin133287775390571760 1
-116C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\dist\favicon.8b2f57bf.png133292994500589172 0
+116C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\dist\favicon.8b2f57bf.png133293923202125457 0
 116C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\js-yaml\dist133287775390677761 1
 115C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\js-yaml\lib133287775390965772 1
 149C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\core-js\proposals\relative-indexing-method.js133287911773183968 0
@@ -3008,9 +3011,9 @@
 134C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\@parcel\runtime-js\lib\helpers133287775276740004 1
 171C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\csso\node_modules\css-tree\cjs\syntax\node\index-parse-selector.cjs133287231585325873 0
 127C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\chrome-trace-event\dist133287775361777514 1
+132C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\css-tree\dist\csstree.esm.js133287231590093661 0
 146C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\caniuse-lite\data\features\style-scoped.js133287231595946910 0
 121C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\is-number\LICENSE133287231571190010 0
-132C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\css-tree\dist\csstree.esm.js133287231590093661 0
 127C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\css-select\lib\index.js133287231579334614 0
 126C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\is-number\package.json133287231569745155 0
 146C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\css-select\lib\pseudo-selectors\index.d.ts133287231587219291 0
@@ -3174,7 +3177,6 @@
 158C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\css-select\node_modules\domutils\lib\querying.d.ts.map133287231583499927 0
 149C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\caniuse-lite\data\features\css-text-indent.js133287231591528813 0
 133C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\htmlnano\docs\babel.config.js133287231572045713 0
-130C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\htmlnano\docs\netlify.toml133287231586777825 0
 129C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\css-select\lib\general.js133287231578557689 0
 135C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\caniuse-lite\data\regions\ID.js133287231593256750 0
 153C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\@parcel\utils\test\input\sourcemap\source-root.js133287231586610642 0
@@ -3942,8 +3944,6 @@
 141C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\csso\lib\replace\AttributeSelector.js133287231585703501 0
 131C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\core-js\es\object\create.js133287911747895515 0
 134C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\csso\lib\replace\Percentage.js133287231587508928 0
-135C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\caniuse-lite\data\regions\TZ.js133287231596558673 0
-132C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\core-js\full\regexp\match.js133287911770192911 0
 127C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\csso\lib\replace\Url.js133287231587878043 0
 151C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\core-js\modules\esnext.async-iterator.reduce.js133287911755264243 0
 143C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\csso\lib\replace\property\background.js133287231585845181 0
@@ -5640,7 +5640,6 @@
 154C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\@swc\helpers\lib\_iterable_to_array_limit_loose.js133287231585513684 0
 130C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\core-js\full\set\filter.js133287911760084355 0
 139C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\core-js\internals\array-includes.js133287911743877444 0
-150C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\core-js\internals\array-iteration-from-last.js133287911743921287 0
 140C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\core-js\es\array\virtual\includes.js133287911764196551 0
 144C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\core-js\internals\array-last-index-of.js133287911743950868 0
 147C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\@swc\helpers\src\_sliced_to_array_loose.mjs133287231590020660 0
@@ -6003,6 +6002,8 @@
 136C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\core-js\features\map\map-keys.js133287911769540355 0
 138C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\core-js\full\regexp\constructor.js133287911747198554 0
 132C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\core-js\full\regexp\flags.js133287911761021503 0
+135C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\caniuse-lite\data\regions\TZ.js133287231596558673 0
+132C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\core-js\full\regexp\match.js133287911770192911 0
 133C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\core-js\full\regexp\search.js133287911773816498 0
 140C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\core-js\full\object\lookup-setter.js133287911769498209 0
 132C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\core-js\full\regexp\split.js133287911775872172 0
@@ -8115,7 +8116,7 @@
 130C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\binary-extensions\index.js133287233038367516 0
 114C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\base-x\src133287775332576750 1
 173C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeUselessDefs.js133287231586046642 0
-113C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\dist\index.e37f48ea.js133293052756724951 0
+113C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\dist\index.e37f48ea.js133293940127320455 0
 116C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\argparse\lib133287775332128164 1
 122C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\argparse\README.md133287231576895977 0
 123C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\argparse\lib\sub.js133287231574051149 0
@@ -9392,10 +9393,10 @@
 119C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\.bin\semver.cmd133287231597614110 0
 117C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\.bin\svgo.ps1133287231597614110 0
 131C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\node_modules\.bin\update-browserslist-db133287231597663881 0
-114C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\dist\icons.21bad73c.svg133292994500399758 0
-114C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\dist\icons.dfd7a6db.svg133292994500399758 0
+114C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\dist\icons.21bad73c.svg133293923201466195 0
+114C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\dist\icons.dfd7a6db.svg133293923201466195 0
 117C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\dist\index.62406edb.js.map133287300260246492 0
-117C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\dist\index.e37f48ea.js.map133293052756817405 0
-114C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\dist\index.f7626f62.css133292994500589172 0
-118C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\dist\index.f7626f62.css.map133292994500867439 0
+117C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\dist\index.e37f48ea.js.map133293940127344697 0
+114C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\dist\index.f7626f62.css133293923201406728 0
+118C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\dist\index.f7626f62.css.map133293923201466195 0
 115C:\Users\Rawera Daniel\Desktop\programming doc\Practice\Gitpush\Forkify-Recipe Application\dist\starter.3464ddca.js133287280793906741 0
