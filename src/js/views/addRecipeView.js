@@ -3,6 +3,7 @@ import icons from 'url:../../img/icons.svg'; // parce2
 
 class AddRecipeView extends view {
   _parentElement = document.querySelector('.upload');
+  _message = 'Recipe was successfully uploaded :)';
 
   _window = document.querySelector('.add-recipe-window');
   _overlay = document.querySelector('.overlay');
